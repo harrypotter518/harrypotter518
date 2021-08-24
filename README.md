@@ -28,6 +28,7 @@
 ### Github Status
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanyen2&show_icons=true&locale=en&theme=dark" alt="ryanyen2" /></p>
 
+[![Yudhiesh's github stats](https://github-readme-stats.vercel.app/api?username=yudhiesh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 ### Contact Me
 <p align="left">
 <a href="https://twitter.com/ryanyen22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ryanyen22" height="30" width="40" /></a>

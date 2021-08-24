@@ -1,19 +1,13 @@
 <h1 align="center">This is HarryPotter5182</h1>
-<h3 align="center">Full stack Web/Mobil🦄</h3>
+<h3 align="center">Full stack Web/Mobile Developer🦄</h3>
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width=200/>
 
 
 ### About Me
 
-- 🧑‍💼 working on [nearD](https://neard.com/)
-
-- 👯 wanna do **cloud/ container stuff**
-
-- 👨‍💻 more about me... [https://ryanyen2.netlify.app/](https://ryanyen2.netlify.app/)
-
+- 💻  specilaized in frontend/ backend/Android/iOS 
+- 🧑‍💻 experience in Deep Learning/AI/ data analysis/ web scraping**
 - 🧑‍🔬 research on Deep Learning(CNN/ RNN/ Sentimental Analysis)
-
-- 🧑‍💻 experience in **frontend/ backend/ cloud/ container/ ML/ NLP/ data analysis/ web scraping**
 
 ---
 

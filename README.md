@@ -1,13 +1,15 @@
 <h1 align="center">This is HarryPotter5182</h1>
 <h3 align="center">Full stack Web/Mobile Developer🦄</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanyen2" alt="ryanyen2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrypotter518" alt="harrypotter518" /> </p>
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width=300/>
 
 ### About Me
 
-- 💻  specilaized in frontend/ backend/Android/iOS 
+- 🧑‍💻 specilaized in web frontend/backend developing 
 
-- 🧑‍💻 experience in Deep Learning/AI/ data analysis/ web scraping**
+- 🧑‍💻 talented in Android/iOS app developing 
+- 
+- 🧑‍💻 experience in Deep Learning/AI/data analysis/web scraping**
 
 - 🧑‍🔬 research on Deep Learning(CNN/ RNN/ Sentimental Analysis)
 

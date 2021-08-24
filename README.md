@@ -1,18 +1,20 @@
 <h1 align="center">This is HarryPotter5182</h1>
 <h3 align="center">Full stack Web/Mobile Developer🦄</h3>
 
-### Github Status
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=harrypotter518&show_icons=true&locale=en&theme=dark" alt="harrypotter518" /></p>
-<img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width=200/>
+
+
 
 
 ### About Me
-<p>
+
 - 💻  specilaized in frontend/ backend/Android/iOS 
 - 🧑‍💻 experience in Deep Learning/AI/ data analysis/ web scraping**
 - 🧑‍🔬 research on Deep Learning(CNN/ RNN/ Sentimental Analysis)
-</p>
+
 ---
+### Github Status
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=harrypotter518&show_icons=true&locale=en&theme=dark" alt="harrypotter518" /></p>
+<img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width=500/>
 
 ### Languages and Tools
 | Category  | Tools |

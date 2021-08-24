@@ -1,19 +1,17 @@
-<h1 align="center">This is ryanyen2</h1>
-<h3 align="center">Startup/ Develop/ Unicorn 🦄</h3>
+<h1 align="center">This is HarryPotter5182</h1>
+<h3 align="center">Full stack Web/Mobil🦄</h3>
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width=200/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanyen2" alt="ryanyen2" /> </p>
+
 
 ### About Me
 
 - 🧑‍💼 working on [nearD](https://neard.com/)
 
-- 👨‍🎓 study at **Stanford/ UCL/ CityU HK**
-
 - 👯 wanna do **cloud/ container stuff**
 
 - 👨‍💻 more about me... [https://ryanyen2.netlify.app/](https://ryanyen2.netlify.app/)
 
-- 🧑‍🔬 research on LSTM/ RNN/ Sentimental Analysis
+- 🧑‍🔬 research on Deep Learning(CNN/ RNN/ Sentimental Analysis)
 
 - 🧑‍💻 experience in **frontend/ backend/ cloud/ container/ ML/ NLP/ data analysis/ web scraping**
 

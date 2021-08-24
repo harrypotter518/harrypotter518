@@ -8,7 +8,8 @@
 - 🧑‍💻 specilaized in web frontend/backend developing 
 
 - 🧑‍💻 talented in Android/iOS app developing 
-- 
+- 🧑‍💻 excellent communication skill
+
 - 🧑‍💻 experience in Deep Learning/AI/data analysis/web scraping**
 
 - 🧑‍🔬 research on Deep Learning(CNN/ RNN/ Sentimental Analysis)

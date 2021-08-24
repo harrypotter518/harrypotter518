@@ -6,7 +6,9 @@
 ### About Me
 
 - 💻  specilaized in frontend/ backend/Android/iOS 
+
 - 🧑‍💻 experience in Deep Learning/AI/ data analysis/ web scraping**
+
 - 🧑‍🔬 research on Deep Learning(CNN/ RNN/ Sentimental Analysis)
 
 ---

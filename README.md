@@ -1,4 +1,7 @@
 <h1 align="center">This is HarryPotter518</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20web%20and%20app%20developer;8+%2B%20years%20of%20programming%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
+</p>
 <h3 align="center">Full stack Web/Mobile Developer🦄</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrypotter518" alt="harrypotter518" /> </p>
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width=300/>

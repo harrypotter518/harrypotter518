@@ -31,6 +31,22 @@
 ### Github Status
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=harrypotter518&show_icons=true&locale=en&theme=dark" alt="harrypotter518" /></p>
 
+<div align="center">
+  <!-- <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/alchemist0404/alchemist0404?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/alchemist0404?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/alchemist0404?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/gists/alchemist0404?style=flat-square&color=black&logo=github">
+  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
+</div>
+
 
 
 

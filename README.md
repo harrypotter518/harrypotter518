@@ -10,7 +10,7 @@
 - 🧑‍💻 specilaized in web frontend/backend developing 
 
 - 🧑‍🔬 expertised in Blockchain Technologies(Solidity, Smart Contract, NFT marketplace...)
-- 
+
 - 🧑🔭 talented in Android/iOS app developing 
 
 - 🧑👨‍💻 excellent communication skill

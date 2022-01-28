@@ -1,6 +1,6 @@
-<h1 align="center">Full-stack/Blockcahin developer</h1>
+<h1 align="center">This is Harry Potter</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20and%20Mobile%20developer;Data%20Scientist/AI%20Expert;Being%20sincere%20and%20diligent&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Blockchain%20developer;Data%20Scientist/AI%20Expert;Being%20sincere%20and%20diligent&center=true&width=380&height=45"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrypotter518" alt="harrypotter518" /> </p>
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width=300/>

@@ -1,4 +1,4 @@
-<h1 align="center">This is HarryPotter518</h1>
+<h1 align="center">Full-stack/Blockcahin developer</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20and%20Mobile%20developer;Data%20Scientist/AI%20Expert;Being%20sincere%20and%20diligent&center=true&width=380&height=45"></a>
 </p>
@@ -9,13 +9,14 @@
 
 - 🧑‍💻 specilaized in web frontend/backend developing 
 
+- 🧑‍🔬 expertised in Blockchain Technologies(Solidity, Smart Contract, NFT marketplace...)
+- 
 - 🧑🔭 talented in Android/iOS app developing 
 
 - 🧑👨‍💻 excellent communication skill
 
 - 🧑🌱 experience in Deep Learning/AI/data analysis/web scraping**
 
-- 🧑‍🔬 research on Blockchain
 
 ---
 

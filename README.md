@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrypotter518" alt="harrypotter518" /> </p>
 
-<img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="400"/>
+<img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
 
 ### About Me
 
